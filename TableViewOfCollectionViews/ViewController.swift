@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var tableView: UITableView!
     
     // data model
-    let dataModelArray = ["Data1", "Data1", "Data3"]
+    let dataModelArray = ["Data1", "Data2", "Data3"]
     
     override func viewDidLoad() {
         super.viewDidLoad()
